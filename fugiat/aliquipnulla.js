@@ -1,0 +1,1 @@
+const c = `rgb(${color})`;
